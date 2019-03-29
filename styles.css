@@ -1,0 +1,20 @@
+body {
+  background-color: lightblue;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+h3{background-color:blue;
+     padding:10px;
+	 font:white;
+	 margin:10px;}
+
+		
+table{  	margin-left:auto; margin-right:auto;
+					border:2px solid blue ; text-align:center;
+					border-collapse: collapse;
+					width: 70%;
+					}
+th{background-color:red;color:white;border:1px solid blue;height: 50px;}
+td{ background-color:yellow;color:blue;border:1px solid blue;height: 30px;}
